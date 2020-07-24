@@ -1,4 +1,4 @@
-# ManGo is mini endpoint for hangiliman
+# ManGo is a mini endpoint for hangiliman
 
 #### Packages
 - [gorilla/mux](github.com/gorilla/mux) v1.7.4
